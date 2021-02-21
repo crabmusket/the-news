@@ -6,6 +6,11 @@
     </head>
 
     <body>
+        <outline text="Coronavirus" title="Coronavirus">
+            <outline htmlUrl="https://www.health.gov.au" text="Department of Health" title="Department of Health" type="rss" version="RSS" xmlUrl="https://www.health.gov.au/news/rss.xml" />
+            <outline htmlUrl="https://www.abc.net.au/news/health/" text="ABC News - Health" title="ABC News - Health" type="rss" version="RSS" xmlUrl="https://www.abc.net.au/news/feed/9167762/rss.xml" />
+        </outline>
+        
         <outline text="National" title="National">
             <outline htmlUrl="https://abc.net.au" text="ABC News" title="ABC News" type="rss" version="RSS" xmlUrl="https://www.abc.net.au/news/feed/51120/rss.xml" />
             <outline htmlUrl="https://www.theguardian.com/australia-news" text="The Guardian - Australia" title="The Guardian - Australia" type="rss" version="RSS" xmlUrl="https://www.theguardian.com/australia-news/rss" />
