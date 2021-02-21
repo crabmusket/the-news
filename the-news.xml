@@ -35,6 +35,7 @@
         <outline text="Satire(?)" title="Satire(?)">
             <outline htmlUrl="https://www.theshovel.com.au" text="The Shovel" title="The Shovel" type="rss" version="RSS" xmlUrl="https://www.theshovel.com.au/feed" />
             <outline htmlUrl="https://www.thejuicemedia.com" text="The Juice Media" title="The Juice Media" type="rss" version="RSS" xmlUrl="https://www.thejuicemedia.com/feed/" />
+            <outline htmlUrl="http://www.betootaadvocate.com" text="The Betoota Advocate" title="The Betoota Advocate" type="rss" version="RSS" xmlUrl="http://www.betootaadvocate.com/feed/rss" />
         </outline>
     </body>
 </opml>
