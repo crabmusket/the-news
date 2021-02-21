@@ -14,21 +14,6 @@ Now that there is no more The News allowed on Australia's most important public 
 
 The [list of default news sources](#whats-in-the-default-bundle) is biased towards my own tastes and opinions, so you may find it disagreeable. Steps **six** and **seven** address this unfortunate reality. However, for more technologically savvy readers, I welcome pull requests to amend and expand the default list.
 
-## RSS reading software
-
-- [Thunderbird](https://www.thunderbird.net/)
-- Microsoft Outlook (allegedly)
-
-## Online RSS services
-
-- [Feedly](https://feedly.com) if you want something clean and modern
-- [NewsBlur](https://newsblur.com) if you want something with more features
-
-## Browser extensions
-
-- [Awesome RSS](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss) (Firefox)
-- [RSS Finder](https://chrome.google.com/webstore/detail/rss-finder/cdjocoacgphmbihenkkgaackgkjlfncp?hl=en) (Chrome)
-
 ## FAQ
 
 ### Why would I want to take part in this miracle seven-step process?
@@ -37,13 +22,20 @@ Consuming news via RSS feeds gives _you_ the power rather than allowing a platfo
 
 ### Why seven, seven is too many?
 
-No pain, no gain! But in all seriousness, you may be a more casual consumer of news: you may not need an intravenous drip of piping hot News delivered to you in this way. That's totally okay, and probably actually a good thing. You can still use RSS to consume blogs and other things of interest to yourself - or you can keep watching the news on TV, listening to podcasts (which also use RSS, just sayin'), or even picking up the paper from your local newsagent.
+No pain, no gain! But in all seriousness, you may be a more casual consumer of news: you may not need an intravenous drip of piping hot News delivered to you in this way. That's totally okay, and probably actually a good thing. You can keep watching the news on TV, listening to podcasts (which also use RSS, just sayin'), or even picking up the paper from your local newsagent. You can even visiting their websites directly, one after the other (or open up like 50 tabs at the same time if that's your thing).
+
+Conversely, you can use your RSS reader to consume blogs and other things which are not necessarily News-worthy, but nevertheless are of interest to yourself!
 
 ### What's in the default bundle?
 
 After completing step **four** of our patented Process, you'll be able to read the news from Australia's most trusted news organisations.
-The first among equals is, of course, the ABC. I've included some other prominent Australiam media companies like The Guardian.
-There are some international sources like the BBC, smaller mastheads like The Saturday Paper, and even some satire (at least, I _think_ it's satire).
+
+- First among equals is, of course, the ABC
+- There's a dedicated health section with government and ABC updates
+- I've included some other prominent Australiam media companies like The Guardian
+- There are some international sources like the BBC
+- I've added smaller mastheads like The Saturday Paper and Reneweconomy (energy is important!)
+- Aaaand there's even some satire (at least, I _think_ it's satire?)
 
 ### There is too much news! Make it stop!
 
@@ -61,3 +53,20 @@ I'd love to find a good pice of desktop software though. Let me know if you find
 ### How can I do that?
 
 Probably [tweet at me](https://twitter.com/crabmusket).
+
+## Supplemental materials
+
+### RSS reading software
+
+- [Thunderbird](https://www.thunderbird.net/)
+- Microsoft Outlook (allegedly)
+
+### Online RSS services
+
+- [Feedly](https://feedly.com) if you want something clean and modern
+- [NewsBlur](https://newsblur.com) if you want something with more features
+
+### Browser extensions
+
+- [Awesome RSS](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss) (Firefox)
+- [RSS Finder](https://chrome.google.com/webstore/detail/rss-finder/cdjocoacgphmbihenkkgaackgkjlfncp?hl=en) (Chrome)
