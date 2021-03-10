@@ -22,7 +22,9 @@ Consuming news via RSS feeds gives _you_ the power rather than allowing a platfo
 
 ### Why seven, seven is too many?
 
-No pain, no gain! But in all seriousness, you may be a more casual consumer of news: you may not need an intravenous drip of piping hot News delivered to you in this way. That's totally okay, and probably actually a good thing. You can keep watching the news on TV, listening to podcasts (which also use RSS, just sayin'), or even picking up the paper from your local newsagent. You can even visiting their websites directly, one after the other (or open up like 50 tabs at the same time if that's your thing).
+No pain, no gain! But in all seriousness, you might be a more casual consumer of news: you may not need an intravenous drip of piping hot News delivered to you every minute of the day. That's totally okay, and probably actually a good thing. In that case, you can ignore all seven of the steps and simply proceed with your day.
+
+You can keep watching the news on TV, listening to podcasts (which also use RSS, just sayin'), or even picking up the paper from your local newsagent. You can even visit their websites directly, one after the other (or open up like 50 tabs at the same time if that's your thing).
 
 Conversely, you can use your RSS reader to consume blogs and other things which are not necessarily News-worthy, but nevertheless are of interest to yourself!
 
@@ -32,7 +34,7 @@ After completing step **four** of our patented Process, you'll be able to read t
 
 - First among equals is, of course, the ABC
 - There's a dedicated health section with government and ABC updates
-- I've included some other prominent Australiam media companies like The Guardian
+- I've included some other prominent Australian media companies like The Guardian
 - There are some international sources like the BBC
 - I've added smaller mastheads like The Saturday Paper and Reneweconomy (energy is important!)
 - Aaaand there's even some satire (at least, I _think_ it's satire?)
