@@ -62,15 +62,17 @@ Probably [tweet at me](https://twitter.com/crabmusket).
 
 ## Supplemental materials
 
-### RSS reading software
-
-- [Thunderbird](https://www.thunderbird.net/)
-- Microsoft Outlook (allegedly)
-
 ### Online RSS services
 
 - [Feedly](https://feedly.com) if you want something clean and modern
 - [NewsBlur](https://newsblur.com) if you want something with more features
+- [The Old Reader](https://theoldreader.com/)
+- [Inoreader](https://www.inoreader.com/)
+
+### RSS reading software
+
+- [Thunderbird](https://www.thunderbird.net/)
+- Microsoft Outlook (allegedly)
 
 ### Browser extensions
 
